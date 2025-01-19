@@ -8,8 +8,8 @@ from selenium.webdriver.chrome.options import Options
 CHROME_PROFILE_PATH = r"C:\Users\admin\AppData\Local\Google\Chrome\User Data"
 LOCAL_COOKIES_PATH = r"C:\Scripts\cookies.txt"
 PRIVATE_KEY_PATH = r"C:\Scripts\id_rsa"
-SERVER_USER = "root"
-SERVER_IP = "45.140.146.245"
+SERVER_USER = "#"
+SERVER_IP = "#"
 REMOTE_COOKIES_PATH = "/usr/script/cookies.txt"
 
 
